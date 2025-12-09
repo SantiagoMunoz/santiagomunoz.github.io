@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Santiago&#39;s blog</title>
+    <title>Terminal</title>
     <link>https://santiagomunoz.github.io/</link>
-    <description>Recent content on Santiago&#39;s blog</description>
+    <description>Recent content on Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 06 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <language>en</language>
+    <lastBuildDate>Tue, 09 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://santiagomunoz.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cadence &amp; proportion: developing skills as an adult</title>
+      <link>https://santiagomunoz.github.io/posts/learning-and-cycles/</link>
+      <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://santiagomunoz.github.io/posts/learning-and-cycles/</guid>
+      <description>The first months after start exercising you improve regardless of how efficiently you train, just because doing anything is better than doing nothing. These are called newbie gains.&#xA;This pattern exists everywhere: we are bound to make rapid progress at almost anything that we start learning deliberately, at least in the beginning. But what happens after the newbie gains are over? You need a method. And if you are an adult leading a busy life and wanting to dig deep into a new pursuit, that method better be good.</description>
+    </item>
     <item>
       <title>First post</title>
       <link>https://santiagomunoz.github.io/blog/first-post/</link>
       <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://santiagomunoz.github.io/blog/first-post/</guid>
-      <description>This is a post</description>
-    </item>
-    <item>
-      <title>First post</title>
-      <link>https://santiagomunoz.github.io/posts/first-post/</link>
-      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://santiagomunoz.github.io/posts/first-post/</guid>
       <description>This is a post</description>
     </item>
     <item>
@@ -30,18 +30,18 @@
       <description>This is another post</description>
     </item>
     <item>
-      <title>Second post</title>
-      <link>https://santiagomunoz.github.io/posts/second-post/</link>
-      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://santiagomunoz.github.io/posts/second-post/</guid>
-      <description>This is another post</description>
+      <title>About</title>
+      <link>https://santiagomunoz.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://santiagomunoz.github.io/about/</guid>
+      <description>My name is Santiago Munoz, also known as Shin Kasbe on the internet. I graduated from uni as an Industrial Engineer (Electrical Engineer) and dedicate myself to making software and art. In my spare time I also enjoy skateboarding and tinkering.</description>
     </item>
     <item>
       <title>Sitename</title>
       <link>https://santiagomunoz.github.io/content/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://santiagomunoz.github.io/content/</guid>
-      <description>Blog&amp;#xa0;&amp;#xa0;&amp;#xa0;@blog First post This is a post&#xA;Second post This is another post&#xA;Third post This is another post</description>
+      <description>Pages About My name is Santiago Munoz, also known as Shin Kasbe on the internet. I graduated from uni as an Industrial Engineer (Electrical Engineer) and dedicate myself to making software and art. In my spare time I also enjoy skateboarding and tinkering.&#xA;Posts Cadence &amp;amp; proportion: developing skills as an adult The first months after start exercising you improve regardless of how efficiently you train, just because doing anything is better than doing nothing.</description>
     </item>
   </channel>
 </rss>
