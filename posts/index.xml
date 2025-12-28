@@ -6,14 +6,21 @@
     <description>Recent content in blog section title on Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://santiagomunoz.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Cadence &amp; proportion: developing skills as an adult</title>
+      <title>AI will teach us to be better humans</title>
+      <link>https://santiagomunoz.github.io/posts/ai-makes-better-humans/</link>
+      <pubDate>Sun, 28 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://santiagomunoz.github.io/posts/ai-makes-better-humans/</guid>
+      <description>&lt;p&gt;Until recently I worked with a particularly difficult engineer. He&#xA;fits the sterotype of Silicon Valley psychopath that sees the people&#xA;around them as disposeable tools to achieve his goals. This person was&#xA;(and is) very smart, and was one of the early adopters of AI in my&#xA;environment. Eventually that got him an internal transfer to another&#xA;more AI-centric position and sailed into the sunset.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How I structure my learning</title>
       <link>https://santiagomunoz.github.io/posts/learning-and-cycles/</link>
       <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://santiagomunoz.github.io/posts/learning-and-cycles/</guid>
-      <description>The first months after you start exercising you improve regardless of how efficiently you train, just because doing anything is better than doing nothing. These are called newbie gains and they are everywhere: we are bound to make rapid progres at pretty much almost anything that we start learning deliberately, at least in the beginning. But what happens after the newbie gains are over? You need a method. And if you are an adult leading a busy life and wanting to dig deep into a new pursuit, that method better be good.</description>
+      <description>&lt;p&gt;The first months after you start exercising you improve regardless of how&#xA;efficiently you train, just because doing &lt;em&gt;anything&lt;/em&gt; is better than&#xA;doing &lt;em&gt;nothing&lt;/em&gt;. These are called &lt;strong&gt;newbie gains&lt;/strong&gt; and they are everywhere:&#xA;we are bound to make rapid progres at pretty much almost anything that&#xA;we start learning deliberately, at least in the beginning. But what&#xA;happens after the newbie gains are over? You need a method. And if you&#xA;are an adult leading a busy life and wanting to dig deep into a new&#xA;pursuit, that method better be good.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
