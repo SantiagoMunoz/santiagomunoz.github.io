@@ -6,14 +6,21 @@
     <description>Recent content on Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 28 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://santiagomunoz.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Energy is the currency of the universe</title>
+      <link>https://santiagomunoz.github.io/posts/energy-currency/</link>
+      <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://santiagomunoz.github.io/posts/energy-currency/</guid>
+      <description>&lt;p&gt;Our currencies used to be backed up by gold, a finite (and scarce)&#xA;resource. Because the supply of gold would not fluctuate much over&#xA;time, this meant that one could move value across time with &lt;em&gt;relative&lt;/em&gt;&#xA;ease. What a nice property, right? What if we could think those terms&#xA;again?&lt;/p&gt;</description>
+    </item>
     <item>
       <title>AI will teach us to be better humans</title>
       <link>https://santiagomunoz.github.io/posts/ai-makes-better-humans/</link>
       <pubDate>Sun, 28 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://santiagomunoz.github.io/posts/ai-makes-better-humans/</guid>
-      <description>&lt;p&gt;Until recently I worked with a particularly difficult engineer. He&#xA;fits the sterotype of Silicon Valley psychopath that sees the people&#xA;around them as disposeable tools to achieve his goals. This person was&#xA;(and is) very smart, and was one of the early adopters of AI in my&#xA;environment. Eventually that got him an internal transfer to another&#xA;more AI-centric position and sailed into the sunset.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Until recently I worked with a particularly difficult TL. He fitted&#xA;the sterotype of Silicon Valley psychopath that sees the people around&#xA;them as disposeable tools to achieve his goals. This person was (and&#xA;is) very smart, and was one of the early adopters of AI in my&#xA;environment. Eventually that got him an internal transfer to another&#xA;more AI-centric position so he moved on&amp;hellip; and came back changed.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How I structure my learning</title>
@@ -48,7 +55,7 @@
       <link>https://santiagomunoz.github.io/content/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://santiagomunoz.github.io/content/</guid>
-      <description>Pages About My name is Santiago Munoz, also known as Shin Kasbe on the internet. I graduated from uni as an Industrial Engineer (Electrical Engineer) and dedicate myself to making software and art. In my spare time I also enjoy skateboarding and tinkering.&#xA;Posts I will write this when ready&#xA;AI will teach us to be better humans Until recently I worked with a particularly difficult engineer. He fits the sterotype of Silicon Valley psychopath that sees the people around them as disposeable tools to achieve his goals.</description>
+      <description>Pages About My name is Santiago Munoz, also known as Shin Kasbe on the internet. I graduated from uni as an Industrial Engineer (Electrical Engineer) and dedicate myself to making software and art. In my spare time I also enjoy skateboarding and tinkering.&#xA;Posts Energy is the currency of the universe Our currencies used to be backed up by gold, a finite (and scarce) resource. Because the supply of gold would not fluctuate much over time, this meant that one could move value across time with relative ease.</description>
     </item>
   </channel>
 </rss>
