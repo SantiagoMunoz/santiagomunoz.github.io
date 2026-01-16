@@ -6,8 +6,15 @@
     <description>Recent content on Shin Kasbe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 14 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://santiagomunoz.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Be a finisher</title>
+      <link>https://santiagomunoz.github.io/posts/be-a-finisher/</link>
+      <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://santiagomunoz.github.io/posts/be-a-finisher/</guid>
+      <description>&lt;p&gt;Starting is easy, anyone can do it! Open your editor, write a couple&#xA;of lines and you have started a project. Read the first few pages and&#xA;you have started a book. Sign up to the gym and you have started your&#xA;journey to get fit. Now that technology is lowering the barrier of&#xA;entry to many things, starting has never been easier&amp;hellip; and more&#xA;meaningless.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Energy is the currency of the universe</title>
       <link>https://santiagomunoz.github.io/posts/energy-currency/</link>
@@ -55,7 +62,7 @@
       <link>https://santiagomunoz.github.io/content/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://santiagomunoz.github.io/content/</guid>
-      <description>Pages About My name is Santiago Munoz, also known as Shin Kasbe on the internet. I graduated from uni as an Industrial Engineer (Electrical Engineer) and dedicate myself to making software and art. In my spare time I also enjoy skateboarding and tinkering.&#xA;Posts Energy is the currency of the universe Our currencies used to be backed up by gold, a finite (and scarce) resource. Because the supply of gold would not fluctuate much over time, this meant that one could move value across time with relative ease.</description>
+      <description>Pages About My name is Santiago Munoz, also known as Shin Kasbe on the internet. I graduated from uni as an Industrial Engineer (Electrical Engineer) and dedicate myself to making software and art. In my spare time I also enjoy skateboarding and tinkering.&#xA;Posts Be a finisher Starting is easy, anyone can do it! Open your editor, write a couple of lines and you have started a project. Read the first few pages and you have started a book.</description>
     </item>
   </channel>
 </rss>
