@@ -6,8 +6,15 @@
     <description>Recent content on Shin Kasbe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 16 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://santiagomunoz.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Your coworkers are (probably) not idiots</title>
+      <link>https://santiagomunoz.github.io/posts/are-you-the-idiot/</link>
+      <pubDate>Sat, 24 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://santiagomunoz.github.io/posts/are-you-the-idiot/</guid>
+      <description>&lt;p&gt;One of the most common water cooler conversations I overhear at the&#xA;workplace is a variation of labeling someone as an idiot. Idiots from&#xA;the past or the present, sometimes even the idiots to come! This&#xA;puzzles me, because the majority of people I have worked with&#xA;have been at least competent. So where are all the idiots I keep hearing about?&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Be a finisher</title>
       <link>https://santiagomunoz.github.io/posts/be-a-finisher/</link>
@@ -62,7 +69,7 @@
       <link>https://santiagomunoz.github.io/content/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://santiagomunoz.github.io/content/</guid>
-      <description>Pages About My name is Santiago Munoz, also known as Shin Kasbe on the internet. I graduated from uni as an Industrial Engineer (Electrical Engineer) and dedicate myself to making software and art. In my spare time I also enjoy skateboarding and tinkering.&#xA;Posts Be a finisher Starting is easy, anyone can do it! Open your editor, write a couple of lines and you have started a project. Read the first few pages and you have started a book.</description>
+      <description>Pages About My name is Santiago Munoz, also known as Shin Kasbe on the internet. I graduated from uni as an Industrial Engineer (Electrical Engineer) and dedicate myself to making software and art. In my spare time I also enjoy skateboarding and tinkering.&#xA;Posts Your coworkers are (probably) not idiots One of the most common water cooler conversations I overhear at the workplace is a variation of labeling someone as an idiot.</description>
     </item>
   </channel>
 </rss>
