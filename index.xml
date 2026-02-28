@@ -6,8 +6,15 @@
     <description>Recent content on Shin Kasbe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://santiagomunoz.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Knowledge stratums</title>
+      <link>https://santiagomunoz.github.io/posts/knowledge-statums/</link>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://santiagomunoz.github.io/posts/knowledge-statums/</guid>
+      <description>&lt;p&gt;I am sure you have played the telephone game at some point. A message&#xA;starts at one end of a chain, gets whispered from person to person and&#xA;by the time it gets to the other end its completely mangled. Its fun,&#xA;and carries a deep lesson about how information degrades.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Your coworkers are (probably) not idiots</title>
       <link>https://santiagomunoz.github.io/posts/are-you-the-idiot/</link>
@@ -69,7 +76,7 @@
       <link>https://santiagomunoz.github.io/content/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://santiagomunoz.github.io/content/</guid>
-      <description>Pages About My name is Santiago Munoz, also known as Shin Kasbe on the internet. I graduated from uni as an Industrial Engineer (Electrical Engineer) and dedicate myself to making software and art. In my spare time I also enjoy skateboarding and tinkering.&#xA;Posts Your coworkers are (probably) not idiots One of the most common water cooler conversations I overhear at the workplace is a variation of labeling someone as an idiot.</description>
+      <description>Pages About My name is Santiago Munoz, also known as Shin Kasbe on the internet. I graduated from uni as an Industrial Engineer (Electrical Engineer) and dedicate myself to making software and art. In my spare time I also enjoy skateboarding and tinkering.&#xA;Posts Knowledge stratums I am sure you have played the telephone game at some point. A message starts at one end of a chain, gets whispered from person to person and by the time it gets to the other end its completely mangled.</description>
     </item>
   </channel>
 </rss>
