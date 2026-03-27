@@ -6,21 +6,21 @@
     <description>Recent content on Shin Kasbe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 28 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://santiagomunoz.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The velocity of ideas</title>
+      <link>https://santiagomunoz.github.io/posts/velocity-ideas/</link>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://santiagomunoz.github.io/posts/velocity-ideas/</guid>
+      <description>&lt;p&gt;There is a principle in economics called the &lt;strong&gt;&lt;strong&gt;velocity of money&lt;/strong&gt;&lt;/strong&gt;.&#xA;The health of an economy depends less on how much money exists and&#xA;more on how &lt;strong&gt;fast&lt;/strong&gt; that money circulates. A small town where every pound&#xA;changes hands five times a week can outperform a wealthy one where&#xA;everyone sits on their savings. Movement is what creates value, not&#xA;stockpile. I believe ideas work the same way.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Knowledge stratums</title>
       <link>https://santiagomunoz.github.io/posts/knowledge-statums/</link>
       <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
       <guid>https://santiagomunoz.github.io/posts/knowledge-statums/</guid>
       <description>&lt;p&gt;I am sure you have played the telephone game at some point. A message&#xA;starts at one end of a chain, gets whispered from person to person and&#xA;by the time it gets to the other end its completely mangled. Its fun,&#xA;and carries a deep lesson about how information degrades.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Your coworkers are (probably) not idiots</title>
-      <link>https://santiagomunoz.github.io/posts/are-you-the-idiot/</link>
-      <pubDate>Sat, 24 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://santiagomunoz.github.io/posts/are-you-the-idiot/</guid>
-      <description>&lt;p&gt;One of the most common water cooler conversations I overhear at the&#xA;workplace is a variation of labeling someone as an idiot. Idiots from&#xA;the past or the present, sometimes even the idiots to come! This&#xA;puzzles me, because the majority of people I have worked with&#xA;have been at least competent. So where are all the idiots I keep hearing about?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Be a finisher</title>
@@ -30,14 +30,14 @@
       <description>&lt;p&gt;Starting is easy, anyone can do it! Open your editor, write a couple&#xA;of lines and you have started a project. Read the first few pages and&#xA;you have started a book. Sign up to the gym and you have started your&#xA;journey to get fit. Now that technology is lowering the barrier of&#xA;entry to many things, starting has never been easier&amp;hellip; and more&#xA;meaningless.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Energy is the currency of the universe</title>
+      <title>Energy as the currency of the universe</title>
       <link>https://santiagomunoz.github.io/posts/energy-currency/</link>
       <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://santiagomunoz.github.io/posts/energy-currency/</guid>
-      <description>&lt;p&gt;Our currencies used to be backed up by gold, a finite (and scarce)&#xA;resource. Because the supply of gold would not fluctuate much over&#xA;time, this meant that one could move value across time with &lt;em&gt;relative&lt;/em&gt;&#xA;ease. What a nice property, right? What if we could think those terms&#xA;again?&lt;/p&gt;</description>
+      <description>&lt;p&gt;Our currencies used to be backed up by gold, a finite and scarce&#xA;resource. Because the supply of gold would not fluctuate much over&#xA;time, this meant that one could move value across time with &lt;em&gt;relative&lt;/em&gt;&#xA;ease. What a nice property, right? What if we could think those terms&#xA;again?&lt;/p&gt;</description>
     </item>
     <item>
-      <title>AI will teach us to be better humans</title>
+      <title>AI could teach us to be better humans</title>
       <link>https://santiagomunoz.github.io/posts/ai-makes-better-humans/</link>
       <pubDate>Sun, 28 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://santiagomunoz.github.io/posts/ai-makes-better-humans/</guid>
@@ -76,7 +76,7 @@
       <link>https://santiagomunoz.github.io/content/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://santiagomunoz.github.io/content/</guid>
-      <description>Pages About My name is Santiago Munoz, also known as Shin Kasbe on the internet. I graduated from uni as an Industrial Engineer (Electrical Engineer) and dedicate myself to making software and art. In my spare time I also enjoy skateboarding and tinkering.&#xA;Posts Knowledge stratums I am sure you have played the telephone game at some point. A message starts at one end of a chain, gets whispered from person to person and by the time it gets to the other end its completely mangled.</description>
+      <description>Pages About My name is Santiago Munoz, also known as Shin Kasbe on the internet. I graduated from uni as an Industrial Engineer (Electrical Engineer) and dedicate myself to making software and art. In my spare time I also enjoy skateboarding and tinkering.&#xA;Posts The velocity of ideas There is a principle in economics called the velocity of money. The health of an economy depends less on how much money exists and more on how fast that money circulates.</description>
     </item>
   </channel>
 </rss>

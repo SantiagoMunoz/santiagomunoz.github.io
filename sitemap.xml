@@ -3,27 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://santiagomunoz.github.io/posts/</loc>
-    <lastmod>2026-02-28T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://santiagomunoz.github.io/</loc>
+    <lastmod>2026-03-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://santiagomunoz.github.io/posts/velocity-ideas/</loc>
+    <lastmod>2026-03-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://santiagomunoz.github.io/posts/knowledge-statums/</loc>
     <lastmod>2026-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://santiagomunoz.github.io/</loc>
-    <lastmod>2026-02-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://santiagomunoz.github.io/tags/</loc>
-    <lastmod>2026-02-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://santiagomunoz.github.io/tags/thinking/</loc>
-    <lastmod>2026-02-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://santiagomunoz.github.io/posts/are-you-the-idiot/</loc>
-    <lastmod>2026-01-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://santiagomunoz.github.io/posts/be-a-finisher/</loc>
-    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://santiagomunoz.github.io/tags/life/</loc>
     <lastmod>2026-01-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://santiagomunoz.github.io/posts/energy-currency/</loc>
@@ -53,5 +44,7 @@
     <loc>https://santiagomunoz.github.io/about/</loc>
   </url><url>
     <loc>https://santiagomunoz.github.io/content/</loc>
+  </url><url>
+    <loc>https://santiagomunoz.github.io/tags/</loc>
   </url>
 </urlset>
