@@ -6,21 +6,42 @@
     <description>Recent content in Home on Shin Kasbe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 28 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://santiagomunoz.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creative resonance</title>
+      <link>https://santiagomunoz.github.io/thoughts/say-yes/</link>
+      <pubDate>Sat, 04 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://santiagomunoz.github.io/thoughts/say-yes/</guid>
+      <description>&lt;p&gt;Here is a short Zen story. A man finishes a retreat at a&#xA;monastery and, before leaving, is allowed to make a question. He thinks&#xA;for a while and asks: &amp;ldquo;How do you find peace?&amp;rdquo;. The monk replies: &amp;ldquo;I&#xA;say yes. Whatever happens to me, I say yes.&amp;rdquo;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Media</title>
+      <link>https://santiagomunoz.github.io/media/</link>
+      <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://santiagomunoz.github.io/media/</guid>
+      <description>Books Movies Games Books Alice in Wonderland &amp;amp; Through the Looking-Glass When Alice sees a white rabbit take a watch out of its waistcoat pocket she decides to follow it, and a sequence of most unusual events is set in motion. Lewis Carroll Neuromancer The Matrix is a world within the world, a global consensus hallucination, the representation of every byte of data in cyberspace. William Gibson Movies Whiplash A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing.</description>
+    </item>
     <item>
       <title>About</title>
       <link>https://santiagomunoz.github.io/about/</link>
-      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
       <guid>https://santiagomunoz.github.io/about/</guid>
-      <description>My name is Santiago, also known as Shin Kasbe on the internet. I graduated from uni in Spain as an Industrial (Electrical) Engineer and dedicate myself to software and art. In my spare time I also enjoy skateboarding and tinkering.</description>
+      <description>My name is Santiago, also known as Shin Kasbe on the internet. I graduated from uni in Spain as an Industrial (Electrical) Engineer and dedicate myself mainly to software and art. In my spare time I also enjoy skateboarding and tinkering.&#xA;You can reach me at smr (dot) rambar (at) gmail (dot) com.</description>
+    </item>
+    <item>
+      <title>Places</title>
+      <link>https://santiagomunoz.github.io/places/</link>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://santiagomunoz.github.io/places/</guid>
+      <description>Nice places that I find special and would recommend visiting if given the chance.&#xA;Name Type Address Country モカ Restaurant 〒940-0066 新潟県長岡市東坂之上町１丁目４−６ Ritz セントラルビル ２階 Japan ミライエ長岡 Library 〒940-0062 新潟県長岡市大手通２丁目３−１０ Japan 蓬莱館 Lodging 〒403-0004 山梨県富士吉田市吉田口八合目 Japan 明日香 Cafe 〒542-0073 大阪府大阪市中央区日本橋２丁目１３−１４ Japan Pigeon Point Light Station Lodging 210 Pigeon Point Rd, Pescadero, CA 94060 USA Caravan Coffee Cafe Lambworks, North Road, London N7 9DP England Brasserie Georges Restaurant 30 Cr de Verdun Perrache, 69002 Lyon France 丸善 丸の内本店 Bookshop/Cafe 〒100-8203 東京都千代田区丸の内１丁目６−４ 丸の内オアゾ 1階～4階 Japan Tang Frères Supermarket 168 Av.</description>
     </item>
     <item>
       <title>Now</title>
       <link>https://santiagomunoz.github.io/now/</link>
       <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
       <guid>https://santiagomunoz.github.io/now/</guid>
-      <description> Strength training at a regular cadence. Mostly barbells. Writing small programs and exploring smalls scale creative projects. Dabbling in Beatmania IIDX doubles mode. Setting up a small home server and this blog. </description>
+      <description> Strength training at a regular cadence. Mostly barbells. Setting up a small home server and this blog. Dabbling in Beatmania IIDX doubles mode. Transitioning from academic style art to drawing from imagination. </description>
     </item>
     <item>
       <title>The velocity of ideas</title>
@@ -69,7 +90,7 @@
       <link>https://santiagomunoz.github.io/content/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://santiagomunoz.github.io/content/</guid>
-      <description>Pages Home About My name is Santiago, also known as Shin Kasbe on the internet. I graduated from uni in Spain as an Industrial (Electrical) Engineer and dedicate myself to software and art. In my spare time I also enjoy skateboarding and tinkering.&#xA;Now Strength training at a regular cadence. Mostly barbells. Writing small programs and exploring smalls scale creative projects. Dabbling in Beatmania IIDX doubles mode. Setting up a small home server and this blog.</description>
+      <description>Pages Home About My name is Santiago, also known as Shin Kasbe on the internet. I graduated from uni in Spain as an Industrial (Electrical) Engineer and dedicate myself mainly to software and art. In my spare time I also enjoy skateboarding and tinkering.&#xA;You can reach me at smr (dot) rambar (at) gmail (dot) com.&#xA;Now Strength training at a regular cadence. Mostly barbells. Setting up a small home server and this blog.</description>
     </item>
   </channel>
 </rss>
