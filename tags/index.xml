@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Shin Kasbe</title>
-    <link>https://santiagomunoz.github.io/tags/</link>
-    <description>Recent content in Tags on Shin Kasbe</description>
+    <title>Tags on 反省 </title>
+    <link>https://ntrospection.com/tags/</link>
+    <description>Recent content in Tags on 反省 </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="https://santiagomunoz.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ntrospection.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

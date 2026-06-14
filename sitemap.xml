@@ -2,49 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://santiagomunoz.github.io/</loc>
+    <loc>https://ntrospection.com/art/</loc>
+    <lastmod>2026-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ntrospection.com/art/edu/</loc>
+    <lastmod>2026-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ntrospection.com/</loc>
+    <lastmod>2026-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ntrospection.com/art/model/</loc>
+    <lastmod>2026-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ntrospection.com/now/</loc>
+    <lastmod>2026-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ntrospection.com/art/wolf/</loc>
+    <lastmod>2026-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ntrospection.com/picks/</loc>
     <lastmod>2026-04-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://santiagomunoz.github.io/media/</loc>
-    <lastmod>2026-04-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://santiagomunoz.github.io/thoughts/say-yes/</loc>
+    <loc>https://ntrospection.com/thoughts/say-yes/</loc>
     <lastmod>2026-04-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://santiagomunoz.github.io/thoughts/</loc>
+    <loc>https://ntrospection.com/thoughts/</loc>
     <lastmod>2026-04-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://santiagomunoz.github.io/about/</loc>
+    <loc>https://ntrospection.com/about/</loc>
     <lastmod>2026-03-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://santiagomunoz.github.io/places/</loc>
-    <lastmod>2026-03-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://santiagomunoz.github.io/now/</loc>
-    <lastmod>2026-03-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://santiagomunoz.github.io/thoughts/velocity-ideas/</loc>
+    <loc>https://ntrospection.com/thoughts/velocity-ideas/</loc>
     <lastmod>2026-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://santiagomunoz.github.io/thoughts/knowledge-statums/</loc>
+    <loc>https://ntrospection.com/thoughts/knowledge-statums/</loc>
     <lastmod>2026-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://santiagomunoz.github.io/thoughts/be-a-finisher/</loc>
+    <loc>https://ntrospection.com/thoughts/be-a-finisher/</loc>
     <lastmod>2026-01-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://santiagomunoz.github.io/thoughts/energy-currency/</loc>
+    <loc>https://ntrospection.com/thoughts/energy-currency/</loc>
     <lastmod>2026-01-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://santiagomunoz.github.io/thoughts/ai-makes-better-humans/</loc>
+    <loc>https://ntrospection.com/thoughts/ai-makes-better-humans/</loc>
     <lastmod>2025-12-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://santiagomunoz.github.io/thoughts/learning-and-cycles/</loc>
+    <loc>https://ntrospection.com/thoughts/learning-and-cycles/</loc>
     <lastmod>2025-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://santiagomunoz.github.io/categories/</loc>
+    <loc>https://ntrospection.com/categories/</loc>
   </url><url>
-    <loc>https://santiagomunoz.github.io/content/</loc>
+    <loc>https://ntrospection.com/content/</loc>
   </url><url>
-    <loc>https://santiagomunoz.github.io/tags/</loc>
+    <loc>https://ntrospection.com/tags/</loc>
   </url>
 </urlset>
