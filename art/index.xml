@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Art on 反省 </title>
+    <title>Art on Shin Kasbe</title>
     <link>https://ntrospection.com/art/</link>
-    <description>Recent content in Art on 反省 </description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <description>Recent content in Art on Shin Kasbe</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
     <lastBuildDate>Sun, 14 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://ntrospection.com/art/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -13,21 +13,21 @@
       <link>https://ntrospection.com/art/edu/</link>
       <pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
       <guid>https://ntrospection.com/art/edu/</guid>
-      <description>Somewhere around 2022. I do not paint much, but when I do I favour gouache because the logistics are simple compared to other mediums like oil. Gouache fits nicely in a busy life.</description>
+      <description>&lt;p&gt;Somewhere around 2022. I do not paint much, but when I do I favour&#xA;gouache because the logistics are simple compared to other mediums&#xA;like oil. Gouache fits nicely in a busy life.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Model</title>
       <link>https://ntrospection.com/art/model/</link>
       <pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
       <guid>https://ntrospection.com/art/model/</guid>
-      <description>I did a lot of conte drawings on newsprint paper in the 2017-&amp;gt;2021 era, at the time I was pushing hard to get good at portraiture. This one is from the later stages of the grind.</description>
+      <description>&lt;p&gt;I did a lot of conte drawings on newsprint paper in the 2017-&amp;gt;2021&#xA;era, at the time I was pushing hard to get good at portraiture. This&#xA;one is from the later stages of the grind.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Wolf</title>
       <link>https://ntrospection.com/art/wolf/</link>
       <pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
       <guid>https://ntrospection.com/art/wolf/</guid>
-      <description>Experimenting with toned paper and using white pencil. Intended to be just an exercise, ended up gifting this one to a friend who said they liked it. Must have been around 2023.</description>
+      <description>&lt;p&gt;Experimenting with toned paper and using white pencil. Intended to be&#xA;just an exercise, ended up gifting this one to a friend who said they&#xA;liked it. Must have been around 2023.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
